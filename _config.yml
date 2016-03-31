@@ -1,0 +1,28 @@
+name: Test1243
+favicon: null
+layout_spectrum: 0.8059450299479067
+typography_spectrum: 0.0757185306865722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.34715967695228755
+  lightness: 0.18420093832537532
+  saturation: 0.020345541881397367
+  rhythmicContrast: 0.7802601638250053
+purpose: []
